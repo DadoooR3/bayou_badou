@@ -1,4 +1,5 @@
-# Prerequisites
+## Fichiers et répertoires exclus de la gestion de version
+# Prérequis
 *.d
 
 # Object files
